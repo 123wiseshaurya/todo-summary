@@ -1,8 +1,8 @@
 package com.todo.summary;
-
-import io.github.cdimascio.dotenv.Dotenv;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+//use these when deploying locally on your system
+//import io.github.cdimascio.dotenv.Dotenv;
+//import org.springframework.boot.SpringApplication;
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class TodoSummaryBackendApplication {
