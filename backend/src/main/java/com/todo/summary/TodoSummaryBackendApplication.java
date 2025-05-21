@@ -4,7 +4,14 @@ package com.todo.summary;
 //import org.springframework.boot.SpringApplication;
 //import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//use these for railway deployment
+@Value("${OPENAI_API_KEY}")
+private String openAiKey;
+
+@Value("${SLACK_WEBHOOK_URL}")
+private String slackWebhookUrl;
 @SpringBootApplication
+//-----------------------------	
 public class TodoSummaryBackendApplication {
 
 	public static void main(String[] args) {
