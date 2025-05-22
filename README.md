@@ -4,7 +4,7 @@ https://drive.google.com/file/d/1fF9f89aUNphKKTmeTpTgiwhWrtNG7PqA/view?usp=drive
 
 # 📝 Todo Summary Assistant
 
-A full-stack application that lets users manage to-dos, summarize pending items using OpenAI, and post the summary to a Slack channel.
+A full-stack application that lets users manage to-dos, summarize and priortize  pending items using OpenAI, and post the summary to a Slack channel.
 
 ---
 
