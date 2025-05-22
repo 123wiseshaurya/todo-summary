@@ -1,6 +1,5 @@
-## 🌐 Deployment (URL)
-
-
+## 🌐 DEMO CLIP
+https://drive.google.com/file/d/1fF9f89aUNphKKTmeTpTgiwhWrtNG7PqA/view?usp=drivesdk
 
 
 # 📝 Todo Summary Assistant
